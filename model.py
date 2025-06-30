@@ -10,7 +10,7 @@ import os
 # --- Google API Key Configuration ---
 # User dwara di gayi API key yahan set ki gayi hai.
 # Suraksha ke liye, isey Streamlit Secrets me rakhna behtar hota hai, lekin request ke anusaar yahan direct dala gaya hai.
-API_KEY = "AIzaSyCLR-6_0yS62F97deUqx31ozqeftKBOoBY"
+API_KEY = "HIDE"
 
 try:
     genai.configure(api_key=API_KEY)
