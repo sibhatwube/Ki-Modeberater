@@ -4,7 +4,7 @@ import google.generativeai as genai
 import warnings
 
 # --- Google API Key Configuration ---
-API_KEY = "AIzaSyCLR-6_0yS62F97deUqx31ozqeftKBOoBY"  # Manage API key securely
+API_KEY = "HIDE"  # Manage API key securely
 
 try:
     genai.configure(api_key=API_KEY)
